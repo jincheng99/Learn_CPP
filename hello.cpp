@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout << "Hello my frist git push" << std::endl;
+    std::cout << "Hello!  my frist git push" << std::endl;
     return 0;
 }
 
